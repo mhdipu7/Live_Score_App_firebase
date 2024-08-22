@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "617934798408",
+    "project_id": "live-football-score-fe800",
+    "storage_bucket": "live-football-score-fe800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617934798408:android:c0187b8707c72f2550627d",
+        "android_client_info": {
+          "package_name": "com.herondev.live_football_score"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDva3JhCFWDJs56QV3f9d8p-o6JrCWWqQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
